@@ -1,0 +1,17 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: 'Roboto Mono', monospace;
+}
+
+.gallery-img {
+	/* margin: 10px; */
+	height: 200px;
+	width: 800px;
+	object-fit: cover;
+}
+
+.gallery-column {
+	padding: 10px;
+	text-align: start;
+}
